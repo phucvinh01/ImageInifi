@@ -115,7 +115,7 @@
 
   /* 36 */
   .h2-bold {
-    @apply text-[30px] font-bold md:text-[36px] leading-[110%];
+    @apply text-[24px] font-bold md:text-[32px] leading-[110%];
   }
 
   /* 30 */
