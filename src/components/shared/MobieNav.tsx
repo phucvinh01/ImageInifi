@@ -82,7 +82,7 @@ const MobieNav = () => {
         </SignedIn>
 
         <SignedOut>
-            <Button asChild className="button bg-purple-gradient bg-cover">
+            <Button asChild className="button bg-purple-500 bg-cover">
               <Link href="/sign-in">Login</Link>
             </Button>
           </SignedOut>
